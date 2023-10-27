@@ -5,18 +5,9 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link type=text/css rel="stylesheet" href="assets/styles.css" />
     <link type=text/css rel="stylesheet" href="assets/bootstrap.min.css" />
+    <title>Login</title>
 </head>
 <body>
-
-  <!---
-    <div class="wrap">
-      <form action="session/sesion.php" method="post">
-          <p>Usuario: <input type="text" name="user" /></p>
-          <p>Contraseña: <input type="password" name="pass" /></p>
-          <p><input type="submit" /></p>
-      </form>
-    </div>-->
-    
     <div class="container col-sm-3 position-absolute top-50 start-50 translate-middle wrap">
         <form action="session/sesion.php" method="post">
           <h1 class="fw-bold text-center py-3 mb">¡Bienvenido!</h1>

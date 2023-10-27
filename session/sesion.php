@@ -5,7 +5,7 @@
 		$_SESSION["nombre"] = "Jonathan Eduardo Ibarra Martinez";
 		$_SESSION["grupo"] = "712";
 
-		header("Location: ../index.php");
+		header("Location: ..//index.php");
 
 	} else {
 		header("Location: error.php");
